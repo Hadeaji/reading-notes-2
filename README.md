@@ -16,5 +16,5 @@ THE CONTENT | THE PAGE NUMBER
 
 THE CONTENT | THE PAGE
 ------------ | -------------
-1. Growth Midnest  | Content from cell 2
+ Growth Midnest  | Content from cell 2
 Content in the first column | Content in the second column
