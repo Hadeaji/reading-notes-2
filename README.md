@@ -14,7 +14,7 @@ THE CONTENT | THE PAGE NUMBER
 3. HTML|  [HTML](#HTM)
 
 
-First Header | Second Header
+THE CONTENT | THE PAGE
 ------------ | -------------
-Content from cell 1 | Content from cell 2
+1. Growth Midnest  | Content from cell 2
 Content in the first column | Content in the second column
